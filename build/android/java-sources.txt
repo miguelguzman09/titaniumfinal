@@ -1,0 +1,8 @@
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/android/support/v7/cardview/R.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/com/escuderojavier/BaseDeDatos/AssetCryptImpl.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/com/escuderojavier/BaseDeDatos/BasededatosActivity.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/com/escuderojavier/BaseDeDatos/BasededatosAppInfo.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/com/escuderojavier/BaseDeDatos/BasededatosApplication.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/com/escuderojavier/BaseDeDatos/R.java"
+"C:/WorkSpace/Titanium/BaseDeDatos/build/android/gen/ti/modules/titanium/ui/R.java"
